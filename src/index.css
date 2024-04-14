@@ -1,0 +1,27 @@
+/* Estilos globais */
+body {
+  margin: 0;
+  font-family: sans-serif;  /* Simplifica a definição de fonte */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+a {
+  color: #007bff;  /* Cor padrão dos links */
+  text-decoration: none;  /* Remove underline */
+}
+
+button {
+  padding: 0.5em 1em;  /* Padding básico */
+  border: 1px solid #ccc;
+  border-radius: 3px;  /* Borda arredondada sutil */
+}
+
+/* Estilos específicos (se houver) */
+/* ... */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
